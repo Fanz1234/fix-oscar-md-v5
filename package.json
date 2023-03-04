@@ -1,7 +1,7 @@
 {
-    "name": "oscar-md",
+    "name": "Fanz",
     "version": "1.0.2",
-    "description": "Oscar Multi Device",
+    "description": "Fanz Multi Device",
     "depecrated": false,
     "main": "index.js",
     "directories": {
@@ -23,7 +23,7 @@
     ],
     "homepage": "Soon",
     "author": {
-        "name": "Jarot"
+        "name": "Fanz"
     },
     "repository": {
         "type": "git",
